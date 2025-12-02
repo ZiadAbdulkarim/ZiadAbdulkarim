@@ -19,22 +19,15 @@ Currently improving my JavaScript skills and actively looking for an opportunity
 
 ## 🛠️ Tech Skills
 
-<div style="display: flex; gap: 40px;">
-  <div>
-    ### 🎨 Frontend
-    - HTML  
-    - CSS  
-    - JavaScript  
-  </div>
+### **Frontend**
+- HTML  
+- CSS  
+- JavaScript  
 
-  <div>
-    ### 🔧 Programming Languages
-    - Java (good knowledge)  
-    - C++ (good knowledge)  
-    - Python (good knowledge)  
-  </div>
-</div>
-
+### **Programming Languages**
+- Java (good knowledge)
+- C++ (good knowledge)
+- Python (good knowledge)
 
 ---
 
