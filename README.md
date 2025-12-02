@@ -34,11 +34,11 @@ Currently improving my JavaScript skills and actively looking for an opportunity
 ## 📌 Featured Projects  
 Here are some of my favorite projects:
 
-- 🎯 **Your Playground Site**  
-  👉 https://ziadabdulkarim.github.io/Your-playground-site/
-
 - 🖼️ **Business Gallery**  
   👉 https://ziadabdulkarim.github.io/Business-Gallery/
+
+- 🎯 **Your Playground Site**  
+  👉 https://ziadabdulkarim.github.io/Your-playground-site/
 
 - 💊 **Pharmacy Website**  
   👉 https://ziadabdulkarim.github.io/Pharmacy-Website/
