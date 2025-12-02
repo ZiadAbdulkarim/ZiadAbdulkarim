@@ -50,5 +50,8 @@ Here are some of my favorite projects:
 - **GitHub:** https://github.com/ziadabdulkarim  
 
 ---
-![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
+
+## 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=ziadabdulkarim&style=flat&color=blue&label=VIEWS)
+
 ⭐ *If you like my work, feel free to star my repositories!*  
