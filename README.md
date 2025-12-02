@@ -7,7 +7,7 @@ Currently improving my JavaScript skills and actively looking for an opportunity
 ---
 
 ## 🚀 About Me  
-- 💼 Currently a **Trainee in the Digital Egypt Pioneers Initiative (DEPI)** in collaboration with **Next Academy**.  
+- 💼 Currently a **trainee in the Digital Egypt Pioneers Initiative (DEPI)**, Angular Frontend Web Developer track in collaboration with **Next Academy**.  
 - 📚 Graduate of **Faculty of Computers & Information Technology – IT Department**,  
   **Egyptian E-Learning University (EELU)**.  
 - 🎓 Holder of an official **Experience Certificate in Microsoft Word, PowerPoint, and Photoshop**  
@@ -25,8 +25,8 @@ Currently improving my JavaScript skills and actively looking for an opportunity
 - JavaScript  
 
 ### **Programming Languages**
-- Java  
-- C++  
+- Java (good knowledge)
+- C++ (good knowledge)
 - Python (good knowledge)
 
 ---
@@ -45,19 +45,8 @@ Here are some of my favorite projects:
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-
-![Ziad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ziadabdulkarim&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ziadabdulkarim&layout=compact)
-
-</div>
-
----
-
 ## 📫 Contact Me
-- **Email:** ziadabdulkarim1999@gmail.com  
+- **Email:** ziad.abdulkarimzakria@gmail.com  
 - **GitHub:** https://github.com/ziadabdulkarim  
 
 ---
