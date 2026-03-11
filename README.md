@@ -31,23 +31,23 @@ Currently improving my JavaScript skills and actively looking for an opportunity
 
 ---
 
-## 📌 Featured Projects  
+## 📌 Featured Projects
 Here are some of my favorite projects:
 
-- 🖼️ **Business Gallery**  
-  👉 https://ziadabdulkarim.github.io/Business-Gallery/
+- 🖼️ **Portfolio**
+  👉 https://github.com/ZiadAbdulkarim/Portfolio
 
-- 🎯 **Your Playground Site**  
-  👉 https://ziadabdulkarim.github.io/Your-playground-site/
+- 🎯 **Your Playground Site**
+  👉 https://ziadabdulkarim.github.io/Your-playground-site
 
-- 💊 **Pharmacy Website**  
-  👉 https://ziadabdulkarim.github.io/Pharmacy-Website/
+- 💊 **Pharmacy Website**
+  👉 https://ziadabdulkarim.github.io/Pharmacy-Website
 
 ---
 
 ## 📫 Contact Me
-- **Email:** ziad.abdulkarimzakria@gmail.com  
-- **GitHub:** https://github.com/ziadabdulkarim  
+- **Email:** ziad.abdulkarimzakria@gmail.com
+ - **WhatsApp / Phon:** +201150994841 
 
 ---
 
