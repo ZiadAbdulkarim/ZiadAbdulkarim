@@ -1,23 +1,27 @@
-# Ziad Abdulkarim
+# Hi, I'm Ziad Abdulkarim 👋
 
 ### Front-End Web Developer
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/ZiadAbdulkarim">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/ziad-abdulkarim">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
+
+---
 
 <table>
 <tr>
 <td>
 
-**Frontend developer who enjoys turning ideas into clean, responsive interfaces.**
+### 🚀 About Me
 
-Currently looking for a **Junior Frontend Developer** opportunity, with hands-on experience through training, client work, and personal projects.
+Front-End Web Developer focused on building **clean, responsive, and user-focused interfaces**.
+
+Currently looking for a **Junior Frontend Developer** opportunity and continuously improving my skills through practical projects and real-world applications.
 
 </td>
 </tr>
@@ -27,36 +31,33 @@ Currently looking for a **Junior Frontend Developer** opportunity, with hands-on
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### `01` — Stack
+### 🎓 Education
 
-**Frontend**
+**The Egyptian E-Learning University**
 
-`HTML5` · `CSS3` · `JavaScript`
-`Bootstrap` · `Tailwind`
-`Angular` · `React` · `TypeScript`
+Bachelor’s Degree in
+Computers & Information Technology
 
-**Tools**
-
-`REST APIs` · `Git` · `GitHub`
-`Firebase` · `Firestore` · `VS Code`
+**Graduation Project:**
+Stock Market Forecasting using Machine Learning
+**Grade: Excellent (A)**
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%">
 
-### `02` — Background
+### 💼 Experience
 
-**DEPI · Angular**
+**DEPI — Angular Front-End Track**
 
-MCIT — Egypt Digital Pioneers Initiative
+MCIT – Egypt Digital Pioneers Initiative
 In collaboration with **Next Academy**
 
-**2025 → 2026**
+**2025 – 2026**
 
-Bachelor’s Degree in Computers & IT
-**EELU · 2019 → 2023**
+Worked on responsive Angular applications as part of a development team.
 
 </td>
 </tr>
@@ -64,49 +65,68 @@ Bachelor’s Degree in Computers & IT
 
 ---
 
-## Selected Work
+## 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+
+</p>
+
+---
+
+## 📌 Featured Projects
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### `01` Security System Bundle Builder
+### 🛡️ Security System Bundle Builder
 
-React prototype based on Figma with product selection, variant quantities, live pricing, synchronized review panel, and local persistence.
+React prototype based on Figma with multi-step product selection, live pricing, variant quantities, review synchronization, and local persistence.
 
-`React` `JavaScript` `CSS` `JSON`
+**React · JavaScript · CSS · JSON**
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%">
 
-### `02` Dawa.com
+### 💊 Dawa.com
 
-Medicine & pharmacy platform developed during DEPI, with responsive Angular interfaces for medicine search and pharmacy discovery.
+Medicine & pharmacy platform built during DEPI, including responsive Angular interfaces for medicine search and pharmacy discovery.
 
-`Angular` `TypeScript` `Tailwind`
+**Angular · TypeScript · Tailwind · JavaScript**
 
 </td>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### `03` Inventory & Sales
+### 📦 Inventory & Sales
 
 Client project for managing products, sales, and inventory with automatic stock updates.
 
-`HTML` `CSS` `Bootstrap` `JavaScript` `Firebase`
+**HTML · CSS · Bootstrap · JavaScript · Firebase**
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%">
 
-### `04` Dental Website
+### 🦷 Dental Website
 
-Responsive landing page providing service information and quick contact through phone and WhatsApp.
+Responsive landing page with service information and quick contact through phone and WhatsApp.
 
-`HTML` `CSS3` `JavaScript`
+**HTML · CSS · JavaScript**
 
 </td>
 </tr>
@@ -114,43 +134,27 @@ Responsive landing page providing service information and quick contact through 
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Education
-
-**Egyptian E-Learning University**
-
-Bachelor’s Degree
-Computers & Information Technology
-
-Graduation Project:
-**Stock Market Forecasting using Machine Learning**
-Grade: **Excellent (A)**
-
-</td>
-
-<td width="50%" valign="top">
-
-### Contact
-
-📧 `ziad.abdulkarimzakria@gmail.com`
-
-📱 `+20 115 099 4841`
-
-🔗 [LinkedIn](https://www.linkedin.com/in/ziad-abdulkarim)
-
-</td>
-</tr>
-</table>
-
-<br>
+## 📫 Contact
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ziadabdulkarim&style=flat&color=blue&label=VIEWS" alt="Profile Views" />
+  <a href="mailto:ziad.abdulkarimzakria@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/ziad-abdulkarim">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
 </p>
 
 <p align="center">
-  <sub>Built with Markdown · HTML · A little bit of frontend thinking</sub>
+  <b>WhatsApp / Phone:</b> +20 115 099 4841
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ziadabdulkarim&style=flat&color=blue&label=VIEWS">
+</p>
+
+<p align="center">
+  <i>⭐ If you like my work, feel free to star my repositories!</i>
 </p>
