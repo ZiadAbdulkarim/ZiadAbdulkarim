@@ -1,49 +1,63 @@
 # Hi, I'm Ziad Abdulkarim 👋
 
-### **Front-End Web Developer**
+### Front-End Web Developer
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/ZiadAbdulkarim">
-    <img src="https://img.shields.io/badge/GitHub-ZiadAbdulkarim-181717?style=flat-square&logo=github" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/ziad-abdulkarim">
-    <img src="https://img.shields.io/badge/LinkedIn-Ziad%20Abdulkarim-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
 
-I’m a Front-End Web Developer focused on building clean, responsive, and user-focused web interfaces using modern frontend technologies.
-I have practical experience with HTML, CSS, Bootstrap, JavaScript, Angular, React, APIs, and component-based architectures.
-
 ---
 
-## 🚀 About Me
+<table>
+<tr>
+<td>
+
+### 🚀 About Me
+
+Front-End Web Developer focused on building **clean, responsive, and user-focused interfaces**.
+
+Currently looking for a **Junior Frontend Developer** opportunity and continuously improving my skills through practical projects and real-world applications.
+
+</td>
+</tr>
+</table>
+
+<br>
 
 <table>
 <tr>
 <td width="50%">
 
-* 💼 **Front-End Web Development Trainee** at the **Digital Egypt Pioneers Initiative (DEPI)** – Angular track, in collaboration with **Next Academy**.
-* 🎓 Bachelor’s Degree in **Computers and Information Technology** from **The Egyptian E-Learning University (EELU)**.
-* 🏆 Graduation Project: **Stock Market Forecasting using Machine Learning** — Grade: **Excellent (A)**.
-* 🔎 Currently looking for a **Junior Frontend Developer** opportunity.
-* 🌱 Continuously improving my frontend development skills through practical projects and real-world applications.
+### 🎓 Education
+
+**The Egyptian E-Learning University**
+
+Bachelor’s Degree in
+Computers & Information Technology
+
+**Graduation Project:**
+Stock Market Forecasting using Machine Learning
+**Grade: Excellent (A)**
 
 </td>
+
 <td width="50%">
 
-### 🎯 Current Focus
+### 💼 Experience
 
-```text
-Frontend Development
-├── HTML5 / CSS3
-├── JavaScript
-├── Bootstrap / Tailwind
-├── Angular
-├── React
-├── TypeScript
-├── REST APIs
-└── Git & GitHub
-```
+**DEPI — Angular Front-End Track**
+
+MCIT – Egypt Digital Pioneers Initiative
+In collaboration with **Next Academy**
+
+**2025 – 2026**
+
+Worked on responsive Angular applications as part of a development team.
 
 </td>
 </tr>
@@ -51,106 +65,96 @@ Frontend Development
 
 ---
 
-## 🛠️ Tech Skills
+## 🛠️ Tech Stack
 
-### **Frontend**
+<p align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+
 </p>
-
-### **Frameworks**
-
-<p>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-</p>
-
-### **APIs & Tools**
-
-<p>
-  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square" alt="REST APIs">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
-</p>
-
-### **Programming Languages**
-
-* Java
-* C++
-* Python
-
-### **Software & Other Skills**
-
-* Adobe Photoshop
-* Microsoft Office Suite
-* Responsive Design
-* Firestore
-* Firebase Authentication
 
 ---
 
 ## 📌 Featured Projects
 
-Here are some of my featured projects:
+<table>
+<tr>
+<td width="50%">
 
-### 🛡️ Security System Bundle Builder — React
+### 🛡️ Security System Bundle Builder
 
-Responsive React prototype based on a provided Figma design, featuring multi-step product selection, variant-specific quantities, live pricing, synchronized review panel, and local persistence.
+React prototype based on Figma with multi-step product selection, live pricing, variant quantities, review synchronization, and local persistence.
 
-**Technologies:** React, JavaScript, HTML, CSS, JSON, LocalStorage
+**React · JavaScript · CSS · JSON**
 
----
+</td>
 
-### 💊 Dawa.com — Medicine & Pharmacy Platform
+<td width="50%">
 
-DEPI graduation project developed as part of a team. Built responsive Angular pages for medicine search and pharmacy discovery.
+### 💊 Dawa.com
 
-**Technologies:** Angular, TypeScript, HTML5, CSS3, Tailwind, JavaScript
+Medicine & pharmacy platform built during DEPI, including responsive Angular interfaces for medicine search and pharmacy discovery.
 
----
+**Angular · TypeScript · Tailwind · JavaScript**
 
-### 📦 Inventory & Sales Management Website
+</td>
+</tr>
 
-Built for a client to manage products, sales, and inventory with automatic stock updates, helping reduce manual tracking and inventory errors.
+<tr>
+<td width="50%">
 
-**Technologies:** HTML, CSS, Bootstrap, JavaScript, Firebase Authentication, Firestore, Firebase Hosting
+### 📦 Inventory & Sales
 
----
+Client project for managing products, sales, and inventory with automatic stock updates.
+
+**HTML · CSS · Bootstrap · JavaScript · Firebase**
+
+</td>
+
+<td width="50%">
 
 ### 🦷 Dental Website
 
-Responsive landing page for a dentist, providing service information and quick contact through phone and WhatsApp.
+Responsive landing page with service information and quick contact through phone and WhatsApp.
 
-**Technologies:** HTML, CSS3, JavaScript, Responsive Design
+**HTML · CSS · JavaScript**
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 
-<p>
+<p align="center">
   <a href="mailto:ziad.abdulkarimzakria@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ziad.abdulkarimzakria%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/ziad-abdulkarim">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
   </a>
 </p>
 
-**WhatsApp / Phone:** +20 115 099 4841
+<p align="center">
+  <b>WhatsApp / Phone:</b> +20 115 099 4841
+</p>
 
 ---
 
-## 👀 Profile Views
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ziadabdulkarim&style=flat&color=blue&label=VIEWS" alt="Profile Views">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ziadabdulkarim&style=flat&color=blue&label=VIEWS">
 </p>
 
-⭐ *If you like my work, feel free to star my repositories!*
+<p align="center">
+  <i>⭐ If you like my work, feel free to star my repositories!</i>
+</p>
